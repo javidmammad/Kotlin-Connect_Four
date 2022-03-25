@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4669#comment
+status: Failed
+feedback:
+  message: "Failed test #2 of 6. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\n-100000\n-100000\n-100000\n\nCorrect output:\n-100000\
+    \ 1\n\nYour code output:\n\n\nError:\nException in thread \"main\" java.lang.IllegalArgumentException:\
+    \ Illegal Capacity: -100000\n\tat java.base/java.util.ArrayList.<init>(ArrayList.java:158)\n\
+    \tat MainKt.main(main.kt:4)\n\tat MainKt.main(main.kt)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
+    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:64)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:176)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:186)\n"
+  time: Tue, 01 Mar 2022 20:18:57 UTC
+record: -1

@@ -1,0 +1,1 @@
+fun sum5(vararg arg: Int): Int = arg.sum()
